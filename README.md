@@ -1,2 +1,2 @@
-# A.I-ChessEngine
-A simple chess a.i that works with minimax algorithm and  alpha beta pruning
+# A.I-Chess-Engine-
+A simple A.I chess engine written in Python. Using the python chess library. This is an exercise in using Minimax Algorithm with Alpha-Beta pruning
